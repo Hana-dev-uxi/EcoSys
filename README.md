@@ -5,12 +5,11 @@ A full-stack CRUD Laravel and ReactJs E-Commerce platform with a secure authenti
 
 ## Getting Started
 
-1. Clone the repo: `https://github.com/futuresea-dev/Larave-React-Order-Management-System.git`
-2. cd to `server` folder, create and fill in `.env` file. See `.env.example`
-3. Set your MySQL Databse keys
-4. Migrate db: `php artisan migrate`
-5. Install frontend dependencies: `cd client && npm install`
-6. Open up two command prompts. In one, run `php artisan serve` to start your backend server, in the other prompt run `npm start` to start the front end.
+1. cd to `server` folder, create and fill in `.env` file. See `.env.example`
+2. Set your MySQL Databse keys
+3. Migrate db: `php artisan migrate`
+4. Install frontend dependencies: `cd client && npm install`
+5. Open up two command prompts. In one, run `php artisan serve` to start your backend server, in the other prompt run `npm start` to start the front end.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
