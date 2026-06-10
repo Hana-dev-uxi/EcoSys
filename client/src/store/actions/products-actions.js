@@ -9,7 +9,7 @@ export const getProducts = () => {
     return async dispatch => {
         dispatch(uiActions.productsLoading());
         const fetchData = async () => {
-            const response = await axios.get('http://localhost:8000/api/products');
+            
 
             const data = await response.data;
             return data;
